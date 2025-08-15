@@ -1,5 +1,3 @@
-# Archivo: tarea_1_example_solution.py
-
 # Definimos códigos de retorno únicos para que coincidan con las pruebas
 CODIGO_EXITO = 0
 ERROR_NO_STRING = -100
@@ -75,3 +73,4 @@ def multiplo_2(base, multiplo):
         result = base << 4
 
     return 0, result
+
